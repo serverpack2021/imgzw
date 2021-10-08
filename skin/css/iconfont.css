@@ -1,7 +1,7 @@
 @font-face {
 	font-family: "iconfont";
-	src: url('../fonts/iconfont.eot'); /* IE9*/
-	src: url('../fonts/iconfont.eot') format('embedded-opentype'), /* IE6-IE8 */  /*url('../fonts/b39f50181d4e4bd6a4100e20f96545b3.woff') format('woff'),  */url('../fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/  url('../fonts/iconfont.svg') format('svg'); /* iOS 4.1- */
+	src: url('https://cdn.jsdelivr.net/gh/serverpack2021/imgzw/skin/fonts/iconfont.eot'); /* IE9*/
+	src: url('https://cdn.jsdelivr.net/gh/serverpack2021/imgzw/skin/fonts/iconfont.eot') format('embedded-opentype'), /* IE6-IE8 */  /*url('../fonts/b39f50181d4e4bd6a4100e20f96545b3.woff') format('woff'),  */url('https://cdn.jsdelivr.net/gh/serverpack2021/imgzw/skin/fonts/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/  url('https://cdn.jsdelivr.net/gh/serverpack2021/imgzw/skin/fonts/iconfont.svg') format('svg'); /* iOS 4.1- */
 }
 .iconfont {
 	font-family: "iconfont" !important;
